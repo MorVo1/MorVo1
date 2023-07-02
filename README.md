@@ -1,4 +1,4 @@
-Hi, im **Maciej** also known as MorVo.
+Hi, I'm **Maciej** also known as MorVo.
 
 ### Languages
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/morvo1)
