@@ -1,9 +1,9 @@
 Hi, I'm **Maciej** also known as MorVo.
 
 ### Languages
-[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/morvo1)
-[![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/morvo1)
-[![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)](https://github.com/morvo1)
+[![Python](https://img.shields.io/badge/python-white?style=for-the-badge&logo=python)](https://github.com/morvo1)
+[![Java](https://img.shields.io/badge/java-white?style=for-the-badge&logo=openjdk)](https://github.com/morvo1)
+[![C++](https://img.shields.io/badge/c++-white?style=for-the-badge&logo=cplusplus)](https://github.com/morvo1)
 
 
 <!---
