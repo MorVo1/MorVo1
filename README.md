@@ -6,7 +6,7 @@ Hi, I'm **Maciej** also known as MorVo.
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 
-<!---
-MorVo1/MorVo1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+![ ](https://github-readme-stats.vercel.app/api/top-langs/?username=morvo1&layout=compact&theme=dark)
+<br/>
+![ ](https://github-readme-stats.vercel.app/api?username=morvo&theme=dark)
