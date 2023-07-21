@@ -9,4 +9,4 @@ Hi, I'm **Maciej** also known as MorVo.
 
 ![ ](https://github-readme-stats.vercel.app/api/top-langs/?username=morvo1&layout=compact&theme=dark)
 <br/>
-![ ](https://github-readme-stats.vercel.app/api?username=morvo&theme=dark)
+![ ](https://github-readme-stats.vercel.app/api?username=morvo1&theme=dark)
